@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+### 2024 - 1
+#### Digital Signal Processing `EEE4420-03`
+This course covers the fundamental mathematical theories of digital signal processing, including interpretations and methods in the time and frequency domains of digital signals, Discrete Fourier Transform (DFT), sampling, and digital filters. Furthermore, the course explores the application of digital signal processing theories to modern artificial intelligence algorithms.
