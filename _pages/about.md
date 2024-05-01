@@ -17,7 +17,8 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to Multimedia AI Lab (`MMAI Lab`) @<a href='https://www.yonsei.ac.kr/'>Yonsei University</a>
+## Welcome to **Multimedia AI** Lab (`MMAI Lab`)
+@<a href='https://www.yonsei.ac.kr/'>Yonsei University</a>
 
 We are a cutting-edge research lab focussing on (but not limited to)
 - 2D/3D computer vision

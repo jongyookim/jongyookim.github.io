@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Multimedia AI Lab homepage is now live.
+MMAI Lab homepage is now live.
