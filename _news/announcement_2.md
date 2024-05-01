@@ -10,4 +10,4 @@ Welcome to Multimedia AI Lab.
 Please contact PI Jongyoo Kim.
 
 - E-mail: `jy.kim[at]yonsei.ac.kr`
-- Phone: `02) 2123-2869`
+- Phone: `02)2123-2869`
