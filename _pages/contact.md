@@ -13,7 +13,7 @@ We are looking for talented and self-motivated students who are interested in re
 
 ### Professor Jongyoo Kim
 
-- Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul, Korea
-- Phone: 02)2123-2869
-- Email: jy.kim[at]yonsei.ac.kr
-- Office: C625, Engineering Hall III
+- **Address**: Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul, Korea
+- **Phone**: 02)2123-2869
+- **Email**: jy.kim[at]yonsei.ac.kr
+- **Office**: C625, Engineering Hall III

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Yonsei University
+# subtitle: Yonsei University
 
 profile:
   align: right
@@ -17,12 +17,12 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome to Multimedia AI Lab (`MMAI Lab`)!
+Welcome to Multimedia AI Lab (`MMAI Lab`) @<a href='https://www.yonsei.ac.kr/'>Yonsei University</a>
 
-We are a cutting-edge research lab focussing on
+We are a cutting-edge research lab focussing on (but not limited to)
 - 2D/3D computer vision
-- computer graphics
-- generative models for multimedia
-- multimedia signal processing
+- Computer graphics
+- Generative models for multimedia
+- Multimedia signal processing
 
-We are passionate about pushing the boundaries of technology and are committed to nurturing the next generation of multimedia technology. If you're looking to make an impact in these exciting fields, we invite you to explore opportunities with us.
+We are passionate about pushing the boundaries of technology and are committed to nurturing the next generation of multimedia technology. If you're looking to make an impact in these exciting fields, we invite you to explore opportunities with us 🔥.
