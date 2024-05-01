@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <img src="http://jongyookim.github.io/assets/img/icon_256.png" width="80" height="80"> <b>Multimedia AI</b> Lab # the website title (if blank, full name will be used instead)
+title: <b>Multimedia AI</b> Lab # the website title (if blank, full name will be used instead)
 first_name: Multimedia AI
 middle_name:
 last_name: Lab

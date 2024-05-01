@@ -6,7 +6,7 @@ subtitle: Yonsei University
 
 profile:
   align: right
-  image: main4.jpg
+  image: icon.png
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
