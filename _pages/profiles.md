@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of MMAI Lab
+description: Members of MMAI Lab
 nav: true
 nav_order: 5
 

@@ -5,6 +5,7 @@
     "image": "",
     "email": "jy.kim@yonsei.ac.kr",
     "phone": "+82-2-2123-2869",
+    "office": "C625, Engineering Hall III",
     // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "Research": "Artificial intelligence, computer vision, computre graphics, multimedia signal processing",
     "location": {
@@ -63,8 +64,7 @@
     {
       "title": "Bronze Best Paper Award",
       "date": "2016",
-      "awarder": "IEEE Seoul Section Student Paper Contest",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "awarder": "IEEE Seoul Section Student Paper Contest"
     },
     {
       "title": "Global Ph.D Fellowship",
