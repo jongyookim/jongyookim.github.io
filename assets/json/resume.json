@@ -74,8 +74,19 @@
   ],
   "activities": [
     {
+      "date": "2024",
       "name": "Session chair of ICASSP 2024, Seoul, Korea",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-earth-americas"
+    },
+    {
+      "date": "2024",
+      "name": "Presenter, 한국멀티미디어학회 2024 제1회 AI 단기강좌, Korea",
+      "icon": "fa-solid fa-chalkboard-user"
+    },
+    {
+      "date": "2023",
+      "name": "Presenter, KIST Connective AI, Seoul, Korea",
+      "icon": "fa-solid fa-chalkboard-user"
     }
   ]
 }

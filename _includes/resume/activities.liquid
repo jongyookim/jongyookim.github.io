@@ -1,33 +1,20 @@
-<div class="list-groups">
-    {% for content in data[1] %}
-      <div class="list-group col-md-6">
-        <table class="table-cv list-group-table">
-          <tbody>
-            <tr>
-              {% if content.icon %}
-                <td class="list-group-category-icon">
-                  <i class="{{ content.icon }}"></i>
-                </td>
-              {% else %}
-                <td class="list-group-category-icon"></td>
-              {% endif %}
-              <!-- Calculate colspan number for category title -->
-              {% assign i = 1 %}
-              {% for item in content.items %}
-                {% assign i = i | plus: 1 %}
-              {% endfor %}
-              <td colspan="{{ i }}" class="list-group-category-main">{{ content.name }}</td>
-            </tr>
-            {% for item in content.keywords %}
-              <tr>
-                <td></td>
-                <td class="list-group-name">
-                  <b>{{ item }}</b>
-                </td>
-              </tr>
-            {% endfor %}
-          </tbody>
-        </table>
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% for content in data[1] %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
+          {% if content.date %} {% assign date = content.date | split: '-' | join: '.' %} {% else %} {% assign date = '' %} {% endif %}
+          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+        </div>
+        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+          {% comment %} {% if content.icon %}
+            <h6 class="ml-1 ml-md-4">{{ content.icon }}</h6>
+          {% endif %} {% endcomment %}
+          <h6 class="ml-1 ml-md-4">
+            {{ content.name }}
+          </h6>
+        </div>
       </div>
-    {% endfor %}
-  </div>
+    </li>
+  {% endfor %}
+</ul>
