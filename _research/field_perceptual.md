@@ -7,7 +7,16 @@ importance: 4
 category: research
 related_publications: true
 ---
-🚧 Under construction.
+🛠️ Under construction.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/research/iqa_ssim.png" width=500 title="SSIM" class="img-fluid" %}
+    </div>
+</div>
+<div class="caption">
+    Concept of classical image quality assessment.
+</div>
 
 
 <div class="row">
