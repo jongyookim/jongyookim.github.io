@@ -6,9 +6,15 @@ inline: false
 related_posts: false
 ---
 
-Welcome to Multimedia AI Lab.
-Please contact PI Jongyoo Kim.
+We are looking for talented and self-motivated students who are interested in research on 2D/3D computer vision, computer graphics, image generation & editing and multimedia signal processing.
 
-- E-mail: `jy.kim[at]yonsei.ac.kr`
-- Phone: `02)2123-2869`
+<!-- If you are interested, please send an email to `jy.kim@yonsei.ac.kr`. -->
 
+### Professor Jongyoo Kim
+
+- **Address**: Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul, Korea
+- **Phone**: 02)2123-2869
+- **Email**: jy.kim[at]yonsei.ac.kr
+- **Office**: C625, Engineering Hall III
+
+<img src="/assets/img/hiring.jpg" height=500 width=500>

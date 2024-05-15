@@ -1,13 +1,15 @@
 ---
 layout: page
 title: 3D Human Vision & Graphics
-description: 3D human pose estima´tion and tracking, NeRF rendering for human
+description: 3D human pose estimation and tracking, NeRF-based novel view and pose rendering for human
 img: /assets/img/body2.jpg
 importance: 3
 category: research
 related_publications: true
 ---
-🛠️ Under construction.
+
+Creating high-fidelity human avatars is a significant topic in metaverse, AR and VR applications. To achieve this, various solid algorithms are necessary, including 3D human body and pose reconstruction, generation, and realistic rendering. During in Microsoft Research Asia, PI contributed to multiple projects focused on these topics {% cite gaoMPSNeRFGeneralizable3D2022a %}, {% cite kimMNETMusicDrivenPluralistic2023 %}, {% cite kimImplementationOmnidirectionalHuman2015 %}.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,7 +17,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Human pose tracking of sign language videos.
+    Human pose tracking of sign language videos. Accurate human body and hand pose tracking with weakly synchronized multi-view videos.
 </div>
 
 <div class="row">
@@ -24,7 +26,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    MNet++. Dance motion generation conditioned on music sequence.
+    Dance motion generation conditioned on various music sequences.
 </div>
 
 <div class="row">
@@ -47,5 +49,5 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    MPS-NeRF.
+    MPS-NeRF demo videos
 </div>

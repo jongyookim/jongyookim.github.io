@@ -7,7 +7,9 @@ importance: 2
 category: research
 related_publications: true
 ---
-🛠️ Under construction.
+Understanding and generating human faces is a fundamental and important research topic within computer vision. PI has extensive experience in research and development related to human face analysis, spanning areas such as face detection, recognition, image synthesis, 3D face reconstruction, novel-view rendering of faces, and more. Many of these algorithms have been shipped to Microsoft Azure AI services and other products {% cite huangADNetLeveragingErrorBias2021 %}, {% cite huangFreeEnricherEnrichingFace2023 %}, {% cite kimLearningHighFidelityFace2021a %}.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -15,8 +17,10 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Constructing 3D Morphable Face Model.
+    Constructing 3D Face Morphable Model (3DMM) using a raw 3D scanned data.
 </div>
+
+In the context of 3D face reconstruction, a common approach involves utilizing a 3D face morphable model, which offers a robust prior understanding of human facial shape and texture.
 
 
 <div class="row">
@@ -36,7 +40,6 @@ related_publications: true
 <div class="caption">
     Face Alignment.
 </div>
-
 
 
 <div class="row">

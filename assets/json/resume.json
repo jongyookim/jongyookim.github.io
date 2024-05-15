@@ -6,14 +6,9 @@
     "email": "jy.kim@yonsei.ac.kr",
     "phone": "+82-2-2123-2869",
     "office": "C625, Engineering Hall III",
+    "scholar": "https://scholar.google.com/citations?user=2Q07zusAAAAJ&hl=en&oi=ao",
     // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "Research": "Artificial intelligence, computer vision, computre graphics, multimedia signal processing",
-    "location": {
-      "address": "C625, Engineering Hall III, 50 Yonsei-ro, Seodaemun-gu",
-      "postalCode": "03722",
-      "city": "Seoul",
-      "countryCode": "KR"
-    }
+    "Research": "Artificial intelligence, computer vision, computer graphics, multimedia signal processing"
   },
   "work": [
     {
@@ -22,7 +17,7 @@
       "location": "Beijing, China",
       "startDate": "2018-03-01",
       "endDate": "2024-01-31",
-      "summary": "My research focus covers various computer vision and graphics fields in the context of human face and body analysis.",
+      "summary": "I worked on various computer vision and graphics domains focused on analyzing human faces, bodies and motions.",
       "highlights": ["Computer vision, machine learning, and computer graphics"]
     },
     {
